@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854883071659",
+    "project_id": "medichain-app",
+    "storage_bucket": "medichain-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854883071659:android:c5ffcc58d5ca2d3d8d69ee",
+        "android_client_info": {
+          "package_name": "com.example.medichain_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0YBQnv-w3xQMnQ7EC4vKLeEpXlSu485k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
